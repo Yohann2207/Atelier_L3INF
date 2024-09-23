@@ -1,0 +1,7 @@
+paris 
+londres
+madrid 
+berlin 
+new-york
+buenos-aires
+Pyongyang
