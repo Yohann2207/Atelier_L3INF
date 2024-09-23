@@ -1,0 +1,45 @@
+Question 3.1 :
+
+1) Elle possède 2 attributs : E et PI.
+
+2) La particularité est que tous les attributs sont des
+attributs de classe et que toutes les méthodes sont des
+méthodes de classe.
+
+3) La classe random() permet de générer un chiffre entre
+0 et 1 et est une méthode de classe.
+
+4)La méthode static double max(double a, double b) 
+renvoie la plus grande valeur de deux valeurs doubles.
+
+La méthode static float max(float a, float b) renvoie 
+la plus grande valeur de deux valeurs flottantes.
+
+La méthode static int max(int a, int b) renvoie la 
+plus grande valeur de deux valeurs entières.
+
+La méthode static long max(long a, long b) renvoie la 
+plus grande valeur de deux valeurs longues.
+
+5) La première instruction est fausse car il manque 
+une valeur en paramètre.
+
+La deuxième instruction est correcte et la valeur 
+finale de x est 6.
+
+
+Question 3.2 :
+
+1) La méthode int compareTo(String anotherString) 
+est une méthode d'instance.
+
+2) 1ère erreur : C'est une méthode d'instance donc on 
+devrait mettre str.compareTo au lieu de String.compareTo.
+
+2ème erreur : int res au lieu de String res
+
+3) La méthode int length() est une méthode d'instance.
+
+4) int lg = st.length().
+
+Question 3.3 : 
